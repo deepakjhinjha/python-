@@ -1,2 +1,2 @@
 # python-
-python programe for solving problems daily 
+python programing for practice of problem solving using python  
